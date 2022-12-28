@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-**Towbbie/Towbbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**Towbbie/Towbbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🔭 I’m currently working on web dev and ML<br>👯 I’m looking to collaborate with other devs as well<br>🌱 I’m currently learning<br>⚡ Fun fact: I play football
