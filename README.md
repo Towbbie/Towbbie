@@ -2,7 +2,7 @@
 <!--
 **Towbbie/Towbbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on my web dev skills<br>👯 I’m looking to collaborate with other devs <br>🌱 I’m currently relearning CSS<br>⚡ Fun fact: I play football
 
 
